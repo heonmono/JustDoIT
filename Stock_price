@@ -13,6 +13,7 @@ server& update
 
 1. 키움 증권 계좌 개설, 모의투자 신청, api 신청, koastudio 설치
 2. 환경 32bit python에서 실행 되므로 anaconda에서 32bit 가상환경 만들어서 
+http://blog.naver.com/PostView.nhn?blogId=dorphiny&logNo=221328978468&from=search&redirect=Log&widgetTypeCall=true&directAccess=false
 3. 32bit에서 가져오고 64bit에서 tf 돌려야함
 
 
