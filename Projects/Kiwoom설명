@@ -12,6 +12,8 @@ server& update
                      https://netpilgrim.net/category/%EB%AC%B4%EB%AA%A8%ED%95%9C%20%EB%8F%84%EC%A0%84-%EC%A3%BC%EC%8B%9D%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%A7%8C%EB%93%A4%EA%B8%B0         
 
 
+10.6
+
 현재 진행상황
 
 1. 키움 증권 계좌 개설, 모의투자 신청, api 신청, koastudio 설치
@@ -21,7 +23,8 @@ http://blog.naver.com/PostView.nhn?blogId=dorphiny&logNo=221328978468&from=searc
 #     $ conda deactivate
 
 3. 32bit에서 가져오고 64bit에서 tf 돌려야함
-
+https://github.com/kdseo/PyTrader/blob/master/Kiwoom.py
+https://goni9071.tistory.com/263?category=772043
 
 목표
 1차 목표
