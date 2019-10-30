@@ -5,3 +5,6 @@ seq2seq with attention example : https://www.tensorflow.org/tutorials/text/nmt_w
 
 
 GAN : https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html 
+
+
+https://twlab.tistory.com/category/Fundamentals/Linear%20Algebra?page=5
