@@ -1,10 +1,10 @@
 # JustDoIT
 
-attention 정리 : https://yjucho1.github.io/attention/attention/
-seq2seq with attention example : https://www.tensorflow.org/tutorials/text/nmt_with_attention
+1. 현재 공부 진행방향
+2시간 이상 알고리즘
+2시간 선형대수학
+1시간 인공지능 관련
++ 학교 project or 정보처리기사
 
 
-GAN : https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html 
-
-
-https://twlab.tistory.com/category/Fundamentals/Linear%20Algebra?page=5
+my schedular : https://docs.google.com/spreadsheets/d/1-Zbwv6QArhIugCQl3ryr6yvT82lxEjhZ1zJ3yCx6lYY/edit
