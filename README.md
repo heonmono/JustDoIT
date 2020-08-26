@@ -7,4 +7,6 @@
 + 학교 project or 정보처리기사  
 
 
+
 my schedular : https://docs.google.com/spreadsheets/d/1-Zbwv6QArhIugCQl3ryr6yvT82lxEjhZ1zJ3yCx6lYY/edit
++ 공부방식 : 50분 공부 10분 휴식
